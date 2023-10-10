@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="./images/Zonglin.png" class="floatpic" width="360" height="480">
+<img src="./images/Zonglin.jpg" class="floatpic" width="360" height="480">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
