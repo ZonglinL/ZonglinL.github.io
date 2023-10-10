@@ -6,9 +6,8 @@ layout: page
 
 <img src="./images/Zonglin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I work as a research assistant in the **IACTIP Lab** (Provincial Key Laboratory), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I graduated from University of California San Diego with a Bachelor's degree in Applied Math and from Columbia University with a Master's degree in Operations Research. In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who expertised in robotics and computer vision. 
 
 <br>
 
