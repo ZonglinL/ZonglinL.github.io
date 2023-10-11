@@ -11,7 +11,8 @@ layout: page
 
 ## Research Interests
 
-I am interested in learning-based computer vision. I am motivated and inspired by **how humans can/will do in specific tasks**, so I am especially interested in multi-agent collaboration in robot vision and multi-modality systems for computer vision.
+I am interested in learning-based computer vision. I am motivated and inspired by **how humans can/will do in specific tasks**, so I am especially interested in multi-agent collaboration in robot vision and multi-modality systems for computer vision. The ultimate goal is to develop a robust and effective AI systems behaving like humans. The current step is to explore methodologies for multi-agent and multi-modality systems and integration of these two systems. Extending these methods to self/semi-weak supervision and/or zero shot learning is also an important step.
+
 <br>
 
 ## About
