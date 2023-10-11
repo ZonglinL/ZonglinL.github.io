@@ -24,10 +24,10 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Story of Me
+  - title: About
     url: /
-  - title: Resume
-    url: /file/resume_of_sixiangchen.pdf
+  - title: CV
+    url: /file/CV.pdf
   - title: Publications
     url: /publications/
  # - title: Projects
