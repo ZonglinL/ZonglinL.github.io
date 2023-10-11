@@ -2,34 +2,36 @@
 layout: page
 ---
 
-# About Me
-
-<img src="https://ephemeral182.github.io/csx2.jpg" class="floatpic" width="360" height="480">
-
-
-
-Here is **Sixiang Chen (陈思翔)**. I received my bachelor degree in Communication Engineering from the School of Ocean Information Engineering at Jimei University, where I was extremely fortunate to be supervised by ***[Dr. Erkang Chen](https://scholar.google.com.hk/citations?hl=zh-CN&user=hWo1RTsAAAAJ)*** and ***[Dr. Yun Liu](https://scholar.google.com.hk/citations?user=9fjHp-EAAAAJ&hl=zh-CN)*** (Southwest University). My research interests lie in the low-level field of computer vision. I am currently a research assistant under the supervision of ***[Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0)*** at Hong Kong University of Science and Technology (Guangzhou campus).
-
-
-
-<br>
-
 ## Education
 
-- **Sept. 2019 - Jun. 2023: Jimei University** (B.Eng.)
-- **Aug. 2023 - : Hong Kong University of Science and Technology** (RA)
+- **Sep 2017 - June 2020:** University of California, San Diego
+- **Sep 2021 - Dec 2022:** Columbia University
 
 <br>
-
----
 
 ## Research Interests
 
-- Performing image restoration under adverse conditions.
-- Vision Transformer for effective image processing.
-- Efficient neural network for low-level applications.
+I am interested in learning-based computer vision. I am motivated and inspired by **how humans can/will do in specific tasks**, so I am especially interested in multi-agent collaboration in robot vision and multi-modality systems for computer vision.
+<br>
+
+## About
+
+In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who expertised in robotics and computer vision.
 
 <br>
+At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a novel algorithm which is robust (in distance between vehicles), effective (outperforming sing-agent systems and methods such as average pooling), and easy to implement (no complicated computation), and therefore it is directly applicable to real-world VPR systems. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
+
+<br>
+Beyond this work, I am currently working on three projects:
+1.    Improvements and extensions on CoVPR. I am resolving limitations and constraints and bringing new mechanisms to CoVPR.
+2.    Benchmarking a large-scale autonomous driving dataset.
+3.    Developing methods for multi-modality.
+
+<br>
+Prior to join AI4CE, I initiated my own project on deep learning for time series. I designed parallel sereis embedding methods for transformers to predict multi-variate time series, which is highly compatible to different Transformers variants. This method takes advantage of the nature that a multi-variate time series is a set of correlated times series and achives the SOTA performance. Details can be found in [this paper](https://ieeexplore.ieee.org/document/10098079) and [this repository](https://github.com/ZonglinL/ParallelSeries). After this project, I worked on SE(3)-Equivariant Transformers for point clouds ([code](https://github.com/ZonglinL/EquivPerformer)) and supervising OCR models with LLMs([code](https://github.com/ZonglinL/BertOnChar)). 
+
+<br>
+
 
 ---
 
