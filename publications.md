@@ -74,8 +74,6 @@ title: Publications
       </td>
     </tr>
 
-
-
   </tbody>
 </table>
 
