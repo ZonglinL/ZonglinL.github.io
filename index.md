@@ -4,8 +4,8 @@ layout: page
 
 ## Education
 
-- **Sep 2017 - June 2020:** University of California, San Diego
-- **Sep 2021 - Dec 2022:** Columbia University
+- **Sep 2021 - Dec 2022:** M.S. in Operations Research, Columbia University
+- **Sep 2017 - June 2020:** B.S. in Applied Math, University of California, San Diego
 
 <br>
 
