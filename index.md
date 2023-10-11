@@ -8,14 +8,16 @@ layout: page
 
 ## About
 
-I graduated from University of California San Diego with a Bachelor's degree in Applied Math and from Columbia University with a Master's degree in Operations Research. In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who expertised in robotics and computer vision.
+I graduated from the University of California San Diego with a Bachelor's degree in Applied Math and from Columbia University with a Master's degree in Operations Research. In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who expertised in robotics and computer vision.
 
-At AI4CE, I worked on Collborative Visual Place Recognition (CoVPR). It is a wonderful experience to discuss and collaborate with Professor Chen Feng and several labmates. In this work, I formulated the first CoVPR framework and designed a novel algorithm which is robust (in distance between vehicles), effective (outperforming sing-agent systems and methods such as average pooling), and easy to implement (no complicated computation), and therefore it is directly applicable to real-world VPR systems. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
+At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). It is a wonderful experience to discuss and collaborate with Professor Chen Feng and several labmates. In this work, I formulated the first CoVPR framework and designed a novel algorithm which is robust (in distance between vehicles), effective (outperforming sing-agent systems and methods such as average pooling), and easy to implement (no complicated computation), and therefore it is directly applicable to real-world VPR systems. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
 
 Beyond this work, I am currently working on three projects:
 1.    Improvements and extensions on CoVPR. We encountered some limitations and constraints, and therefore I am resolving them and bringing new mechanisms to CoVPR.
 2.    Benchmarking a large-scale autonomous driving dataset.
 3.    Developing methods for multi-modality.
+
+Prior to join AI4CE, I initiated my own project on deep learning for time series. I designed parallel sereis embedding methods for transformers to predict multi-variate time series, which is highly compatible to different transformer variants. This method takes advantage of the nature that a multi-variate time series is a set of correlated times series and achives the SOTA performance. 
 
 <br>
 
