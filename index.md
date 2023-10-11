@@ -37,34 +37,9 @@ Prior to join AI4CE, I initiated my own project on deep learning for time series
 ---
 
 ## News and Updates
-- **Aug. 2023：**&#128640; Serendipitously, one papers have been accepted by **BMVC'2023**.
-- **Jul. 2023：** &#127881; Luckily, four papers have been accepted by **ACM MM'2023**.
-- **Jul. 2023：** &#127942; To my good fortune, two papers have been accepted by **ICCV'2023**.
-- **Jul. 2023：** &#128640; I start to serve as a reviewer in **TMM**.
-- **Jun. 2023：**&#127881; I am awarded the honor of **outstanding graduate** from Jimei University.
-- **May 2023：** One paper has been presented in **Arxiv'2023 (Under review)** .
-- **Feb. 2023：**&#128640; Luckily, two papers are accepted to **ICASSP'2023**.
-- **Dec. 2022：** One paper submits to **Arxiv'2023 (Under review)** .
-- **Sept. 2022：**&#127881; Fortunately, one paper has been accepted by **ACCV'2022**.
-- **Sept. 2022：** One paper has been submited to **Arxiv'2023 (Under review)** .
-- **Jul. 2022：** &#127752; Fortunately, one paper has been accepted as **oral presentation** by **ECCV'2022**.
-- **Jun. 2022：** &#127873; Serendipitously, one paper has been accepted by **CVPRW'2022**. 
+- **Sept. 2023：** One paper has been submitted to **ICRA 2024**.
+- **Jan. 2023：** I joined AI4CE Lab.
+- **Sept. 2022：** One paper has been accepted to **ICTAI 2022**.
 
----
-
-## Academic Service & Awards
-
-**Program Committee / Reviewer:**
- - IEEE Transactions on Multimedia (**TMM**)
- -  ACM Multimedia (**ACM MM'2023**)
- -  International Conference on Computer Vision (**ICCV'2023**)
- -  International Conference on Robotics and Automation (**ICRA'2023**)
- - Asian Conference on Computer Vision (**ACCV'2022**)
-
-**Awards:**
- - **Outstanding Graduate in Jimei University, 2023:** Rewarding excellent students during bachelor study.
- - **International Third Price, Team Leader:** Mathematical Contest In Modeling, 2022.
- - **National Second Prize, Team Leader:** China Undergraduate Mathematical Contest in Modeling, 2021.
- - **National Second Prize, Team Leader:** Mathorcup Mathematical Contest in Modeling, 2021.
 
 <br>
