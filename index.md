@@ -2,33 +2,22 @@
 layout: page
 ---
 
-# Zonglin Lyu
+# About Me
 
-<img src="./images/Zonglin.jpg" class="floatpic" width="360" height="480">
+<img src="https://ephemeral182.github.io/csx2.jpg" class="floatpic" width="360" height="480">
 
-## About
 
-I graduated from the University of California San Diego with a Bachelor's degree in Applied Math and from Columbia University with a Master's degree in Operations Research. In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who expertised in robotics and computer vision.
 
-At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). It is a wonderful experience to discuss and collaborate with Professor Chen Feng and several labmates. In this work, I formulated the first CoVPR framework and designed a novel algorithm which is robust (in distance between vehicles), effective (outperforming sing-agent systems and methods such as average pooling), and easy to implement (no complicated computation), and therefore it is directly applicable to real-world VPR systems. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
+Here is **Sixiang Chen (陈思翔)**. I received my bachelor degree in Communication Engineering from the School of Ocean Information Engineering at Jimei University, where I was extremely fortunate to be supervised by ***[Dr. Erkang Chen](https://scholar.google.com.hk/citations?hl=zh-CN&user=hWo1RTsAAAAJ)*** and ***[Dr. Yun Liu](https://scholar.google.com.hk/citations?user=9fjHp-EAAAAJ&hl=zh-CN)*** (Southwest University). My research interests lie in the low-level field of computer vision. I am currently a research assistant under the supervision of ***[Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0)*** at Hong Kong University of Science and Technology (Guangzhou campus).
 
-Beyond this work, I am currently working on three projects:
-1.    Improvements and extensions on CoVPR. We encountered some limitations and constraints, and therefore I am resolving them and bringing new mechanisms to CoVPR.
-2.    Benchmarking a large-scale autonomous driving dataset.
-3.    Developing methods for multi-modality.
 
-Prior to join AI4CE, I initiated my own project on deep learning for time series. I designed parallel sereis embedding methods for transformers to predict multi-variate time series, which is highly compatible to different transformer variants. This method takes advantage of the nature that a multi-variate time series is a set of correlated times series and achives the SOTA performance. 
 
 <br>
 
-## Academic Background
+## Education
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and graduate in 2025. Looking for PhD position after MSc!
+- **Sept. 2019 - Jun. 2023: Jimei University** (B.Eng.)
+- **Aug. 2023 - : Hong Kong University of Science and Technology** (RA)
 
 <br>
 
@@ -36,22 +25,43 @@ Prior to join AI4CE, I initiated my own project on deep learning for time series
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Performing image restoration under adverse conditions.
+- Vision Transformer for effective image processing.
+- Efficient neural network for low-level applications.
 
 <br>
 
 ---
 
 ## News and Updates
+- **Aug. 2023：**&#128640; Serendipitously, one papers have been accepted by **BMVC'2023**.
+- **Jul. 2023：** &#127881; Luckily, four papers have been accepted by **ACM MM'2023**.
+- **Jul. 2023：** &#127942; To my good fortune, two papers have been accepted by **ICCV'2023**.
+- **Jul. 2023：** &#128640; I start to serve as a reviewer in **TMM**.
+- **Jun. 2023：**&#127881; I am awarded the honor of **outstanding graduate** from Jimei University.
+- **May 2023：** One paper has been presented in **Arxiv'2023 (Under review)** .
+- **Feb. 2023：**&#128640; Luckily, two papers are accepted to **ICASSP'2023**.
+- **Dec. 2022：** One paper submits to **Arxiv'2023 (Under review)** .
+- **Sept. 2022：**&#127881; Fortunately, one paper has been accepted by **ACCV'2022**.
+- **Sept. 2022：** One paper has been submited to **Arxiv'2023 (Under review)** .
+- **Jul. 2022：** &#127752; Fortunately, one paper has been accepted as **oral presentation** by **ECCV'2022**.
+- **Jun. 2022：** &#127873; Serendipitously, one paper has been accepted by **CVPRW'2022**. 
 
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+---
+
+## Academic Service & Awards
+
+**Program Committee / Reviewer:**
+ - IEEE Transactions on Multimedia (**TMM**)
+ -  ACM Multimedia (**ACM MM'2023**)
+ -  International Conference on Computer Vision (**ICCV'2023**)
+ -  International Conference on Robotics and Automation (**ICRA'2023**)
+ - Asian Conference on Computer Vision (**ACCV'2022**)
+
+**Awards:**
+ - **Outstanding Graduate in Jimei University, 2023:** Rewarding excellent students during bachelor study.
+ - **International Third Price, Team Leader:** Mathematical Contest In Modeling, 2022.
+ - **National Second Prize, Team Leader:** China Undergraduate Mathematical Contest in Modeling, 2021.
+ - **National Second Prize, Team Leader:** Mathorcup Mathematical Contest in Modeling, 2021.
+
+<br>
