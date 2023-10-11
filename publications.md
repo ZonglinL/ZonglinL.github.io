@@ -27,12 +27,9 @@ title: Publications
 
 
 # Publications
-<p>
-*: equal in contribution
-</p>
-<p>
-✉️: corresponding author
-</p>
+
+*: equal in contribution, ✉️: corresponding author
+
 <!-- =================================================================================== -->
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
