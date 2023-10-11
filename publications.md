@@ -54,7 +54,7 @@ title: Publications
 
     <tr>
       <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
-        <img style="margin:1px;padding-right:20px;width:100%;max-width:100%" src="./images/parallel.jpg" alt="dise"> 
+        <img style="margin:1px;padding-right:20px;width:100%;max-width:100%" src="./images/parallel.png" alt="dise"> 
       </td>
       <td width="75%" valign="center" class="text-wrapper"> 
           <papertitle>
