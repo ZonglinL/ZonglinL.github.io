@@ -19,6 +19,9 @@ My motivation and inspiration come from **what humans can/will do**. My current 
 
 Currently, I am exploring where and how to take advantage of multi-agent and multi-modality systems and possible methods to integrate these two systems. I am interested in how languages, images (videos), point clouds can form complementary and how to apply the knowledge from Large Language Models and Vision-Language Models in vision tasks to achieve better and more robust performance.
 
+#### Contact
+If you want to talk about research or anything about me, please email to zonglinlyu123123@gmail.com
+
 <br>
 
 ## About
@@ -49,3 +52,4 @@ Prior to join AI4CE, I initiated my own project on deep learning for time series
 
 
 <br>
+
