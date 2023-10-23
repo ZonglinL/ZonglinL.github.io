@@ -17,7 +17,7 @@ My motivation and inspiration come from **what humans can/will do**. My current 
 * Collaborative systems in computer vision
 * Deep Learning
 
-I am interested in how languages (tests, audios) and vision (images, videos, pointclouds) can form complementary to mutually benefit each other.
+I am interested in how languages (text, audio) and vision (image, video, point cloud) can mutually benefit each other.
 
 #### Contact
 If you have any questions, please email to zonglinlyu123123@gmail.com
