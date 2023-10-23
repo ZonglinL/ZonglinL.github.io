@@ -13,14 +13,14 @@ layout: page
 
 My motivation and inspiration come from **what humans can/will do**. My current research interests are:
 * Computer vision
-* Multi-modal and cross-modal learning
+* Multi-modal, cross-modal, and multi-task learning
 * Collaborative systems in computer vision
 * Deep Learning
 
-Currently, I am exploring where and how to take advantage of multi-agent and multi-modality systems and possible methods to integrate these two systems. I am interested in how languages, images (videos), point clouds can form complementary and how to apply the knowledge from Large Language Models and Vision-Language Models in vision tasks to achieve better and more robust performance.
+I am interested in how languages (tests, audios) and vision (images, videos, pointclouds) can form complementary to mutually benefit each other.
 
 #### Contact
-If you want to talk about research or anything about me, please email to zonglinlyu123123@gmail.com
+If you have any questions, please email to zonglinlyu123123@gmail.com
 
 <br>
 
@@ -41,11 +41,10 @@ Beyond this work, I am currently working on three projects:
 Prior to join AI4CE, I initiated my own project on deep learning for time series. The parallel sereis embedding methods highly compatible to different Transformers variants and achives the SOTA performance in time series prediction. Details can be found in [this paper](https://ieeexplore.ieee.org/document/10098079) and [this repository](https://github.com/ZonglinL/ParallelSeries). After this project, I worked on SE(3)-Equivariant Transformers for point clouds ([code](https://github.com/ZonglinL/EquivPerformer)) and supervising OCR models with LLMs([code](https://github.com/ZonglinL/BertOnChar)). 
 
 <br>
-
-
 ---
 
 ## News and Updates
+- I am actively looking for PhD postitions for 24 Fall
 - **Sept. 2023：** One paper has been submitted to **ICRA 2024**.
 - **Jan. 2023：** Joined AI4CE Lab.
 - **Sept. 2022：** One paper has been accepted to **ICTAI 2022**.
