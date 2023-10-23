@@ -13,11 +13,9 @@ layout: page
 
 My motivation and inspiration come from **what humans can/will do**. My current research interests are:
 * Computer vision
-* Multi-modal, cross-modal, and multi-task learning
+* Multi-modal, cross-modal, and/or multi-task learning
 * Collaborative systems in computer vision
 * Deep Learning
-
-I am interested in how languages (text, audio) and vision (image, video, point cloud) can mutually benefit each other.
 
 #### Contact
 If you have any questions, please email to zonglinlyu123123@gmail.com
@@ -38,7 +36,7 @@ Beyond this work, I am currently working on three projects:
 3.    Developing methods for multi-modal learning.
 
 <br>
-Prior to join AI4CE, I initiated my own project on deep learning for time series. The parallel sereis embedding methods highly compatible to different Transformers variants and achives the SOTA performance in time series prediction. Details can be found in [this paper](https://ieeexplore.ieee.org/document/10098079) and [this repository](https://github.com/ZonglinL/ParallelSeries). After this project, I worked on SE(3)-Equivariant Transformers for point clouds ([code](https://github.com/ZonglinL/EquivPerformer)) and supervising OCR models with LLMs([code](https://github.com/ZonglinL/BertOnChar)). 
+Prior to join AI4CE, I initiated my own project on deep learning for time series. The parallel sereis embedding method is highly compatible to different Transformers variants and achives the SOTA performance in time series prediction. Details can be found in [this paper](https://ieeexplore.ieee.org/document/10098079) and [this repository](https://github.com/ZonglinL/ParallelSeries). After this project, I worked on SE(3)-Equivariant Transformers for point clouds ([code](https://github.com/ZonglinL/EquivPerformer)) and supervising OCR models with LLMs([code](https://github.com/ZonglinL/BertOnChar)). 
 
 <br>
 ---
