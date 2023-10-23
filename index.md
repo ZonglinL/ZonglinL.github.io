@@ -9,7 +9,10 @@ layout: page
 
 <br>
 
+<font color='red'>I am actively looking for a PhD position starting 2024 Fall</font>
+
 ## Research Interests
+
 
 My motivation and inspiration come from **what humans can/will do**. My current research interests are:
 * Computer vision
@@ -32,7 +35,7 @@ At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this wo
 <br>
 Beyond this work, I am currently working on three projects:
 1.    Improvements and extensions on CoVPR, resolving limitations and designing new mechanisms.
-2.    Benchmarking a large-scale autonomous driving dataset.
+2.    Benchmarking a large-scale autonomous driving dataset. The paper is coming soon!
 3.    Developing methods for multi-modal learning.
 
 <br>
@@ -42,7 +45,6 @@ Prior to join AI4CE, I initiated my own project on deep learning for time series
 ---
 
 ## News and Updates
-- I am actively looking for PhD postitions for 24 Fall
 - **Sept. 2023：** One paper has been submitted to **ICRA 2024**.
 - **Jan. 2023：** Joined AI4CE Lab.
 - **Sept. 2022：** One paper has been accepted to **ICTAI 2022**.
