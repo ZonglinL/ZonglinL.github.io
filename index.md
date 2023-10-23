@@ -27,7 +27,7 @@ If you have any questions, please email to zonglinlyu123123@gmail.com
 In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who specializes in robotics and computer vision research. It is a wonderful experience to collaborate with Professor Chen Feng and labmates.
 
 <br>
-At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a novel algorithm which is robust (in distance between vehicles), effective (outperforming sing-agent systems and naive fusion methods), and easy to implement (no complicated computation), and therefore it is directly applicable to real-world VPR systems. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
+At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a novel algorithm that balances noises and extra information from collaborators. The method is robust (in distance between vehicles), effective (outperforming sing-agent systems and naive fusion methods), and easy to implement (no complicated computation), and therefore it is directly applicable to real-world VPR systems. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
 
 <br>
 Beyond this work, I am currently working on three projects:
