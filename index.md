@@ -9,6 +9,21 @@ layout: page
 
 <br>
 
+## About
+
+In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://scholar.google.com.hk/citations?user=i_aajNoAAAAJ&hl=zh-CN), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who specializes in robotics and computer vision research.
+
+<br>
+At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a robust and effective algorithm that balances noises and extra information from collaborators. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
+
+<br>
+I am currently working on three projects:
+1.    Improvements and extensions on CoVPR, resolving limitations and designing new mechanisms.
+2.    Benchmarking a large-scale autonomous driving dataset. The paper is coming soon!
+3.    Developing methods for multi-modal learning.
+
+<br>
+
 ## Research Interests
 
 <img src="./images/Web.jpg" alt="research" width="400" align="right" />
@@ -29,20 +44,6 @@ In short, my current reasearch intersts are:
 #### Contact
 If you have any questions, please email to zonglinlyu123123@gmail.com
 
-<br>
-
-## About
-
-In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://scholar.google.com.hk/citations?user=i_aajNoAAAAJ&hl=zh-CN), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who specializes in robotics and computer vision research.
-
-<br>
-At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a robust and effective algorithm that balances noises and extra information from collaborators. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
-
-<br>
-I am currently working on three projects:
-1.    Improvements and extensions on CoVPR, resolving limitations and designing new mechanisms.
-2.    Benchmarking a large-scale autonomous driving dataset. The paper is coming soon!
-3.    Developing methods for multi-modal learning.
 
 <br>
 
