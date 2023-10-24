@@ -16,7 +16,7 @@ layout: page
 
 <font color='red'>I am actively looking for a PhD position starting 2024 Fall</font>
 
-My ultimate research goal is to build an intelligent system that can accurately percieve the visual world and make correct decisions like humans. To achieve this, I break my research down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems.
+My ultimate research goal is to build intelligent systems that can percieve the visual world at human levels, whcih can *understand different modalities, perform different tasks, and collaborate with others*. To achieve this, I break my research down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems.
 
 
 * Computer vision
