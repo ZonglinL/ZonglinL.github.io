@@ -16,7 +16,9 @@ layout: page
 
 <font color='red'>I am actively looking for a PhD position starting 2024 Fall</font>
 
-My motivation and inspiration come from **what humans can/will do**. My current research interests are:
+My ultimate research goal is to build an intelligent system that can accurately percieve the visual world and make correct decisions like humans. To achieve this, I break my research down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems.
+
+
 * Computer vision
 * Multi-modal, cross-modal, and/or multi-task learning
 * Collaborative systems in computer vision
