@@ -32,7 +32,7 @@ If you have any questions, please email to zonglinlyu123123@gmail.com
 
 In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://scholar.google.com.hk/citations?user=i_aajNoAAAAJ&hl=zh-CN), supervised by [Professor Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) who specializes in robotics and computer vision research.
 
-At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a novel algorithm that balances noises and extra information from collaborators. The method is robust, effective, and easy to implement. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
+At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a robust and effective algorithm that balances noises and extra information from collaborators. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
 
 Beyond this work, I am currently working on three projects:
 1.    Improvements and extensions on CoVPR, resolving limitations and designing new mechanisms.
@@ -42,9 +42,35 @@ Beyond this work, I am currently working on three projects:
 <br>
 
 ## Selected Publications
+*: equal in contribution, ✉️: corresponding author
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
+        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/CoVPR.jpg" alt="dise"> 
+      </td>
+      <td width="75%" valign="center" class="text-wrapper"> 
+          <papertitle>
+            <strong>
+              Collaborative Visual Place Recognition
+            </strong>
+          </papertitle>
+          <br>
+          Yiming Li*, <strong><u>Zonglin Lyu*</u></strong>, Mingxuan Lu, Chao Chen, Michael Milford, Chen Feng<sup>✉️</sup>.
+          <br>  
+          Submitted to <strong>ICRA</strong> 2024
+          <br>
+          <a href="https://arxiv.org/abs/2310.05541" class="custom-link—paper">[Paper]</a>
+          <a href="https://github.com/ai4ce/CoVPR" class="custom-link—code">[Code]</a>
+          <a href="https://ai4ce.github.io/CoVPR/" class="custom-link—project">[Webpage]</a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
 
 <br>
----
 
 ## News and Updates
 - **Sept. 2023：** One paper has been submitted to **ICRA 2024**.
