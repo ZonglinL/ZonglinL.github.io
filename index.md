@@ -29,21 +29,20 @@ I am currently working on three projects:
 <img src="./images/Web.jpg" alt="research" width="400" align="right" />
 
 <br>
-My ultimate research goal is to build learning-based intelligent systems that can perceive the visual world at human levels, which can *understand different modalities, perform different tasks, and collaborate with others*. To achieve this, I break my research down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems, as shown in the image on the right. In my previous work, I primarily focused on how to **think**, including robust and effective learning-based methods for multi-agent collaboration in VPR, SE-(3) equivariant understanding of point clouds, LLM's supervision for OCR, and time series understanding.
+My ultimate research goal is to build learning-based intelligent systems that can perceive the visual world at human levels, which can *understand different modalities, handle different tasks, and collaborate with others*. To achieve this, I break my research plan down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems, as shown in the image on the right. In my previous work, I primarily focused on how to **think**, including robust and effective learning-based methods for multi-agent collaboration in VPR, SE-(3) equivariant understanding of point clouds, LLM's supervision for OCR, and time series understanding.
 
 <br>
-The next step is to continue exploring how to **think**, developing a multi-modal model that can collaborate with others and generalize its ability to different but relevant tasks. In addition, **learning** with imperfect, noisy, and weakly labeled data is important to enhance the capability of intelligent systems as most real-world data are not perfectly cleaned. After developing a sophosticated system, it is important to take **robustness** into consideration for real-world deployment.
+The next step is to continue exploring how to **think**, developing a multi-modal model that can collaborate with others, generalize its ability to relevant tasks, and recognize never-seen-before objects. In addition, **learning** with imperfect, noisy, and weakly labeled data is important to enhance the capability of intelligent systems as most real-world data are not perfectly cleaned. After developing a sophosticated system, it is important to take **robustness** into consideration for real-world deployment.
 
 <br>
 In short, my current reasearch interests are:
-* Computer vision
-* Multi-modal, cross-modal, and/or multi-task learning
-* Collaborative systems
+* Computer vision with multi-modality, multi-task, and multi-agent
 * Deep Learning
+* Learning with imperfect, noisy, and weakly labeled data (future direction)
+* Robustness (futher direction)
 
 #### Contact
 If you have any questions, please email to zonglinlyu123123@gmail.com
-
 
 <br>
 
