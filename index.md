@@ -9,9 +9,6 @@ layout: page
 
 <br>
 
-
-
-
 ## Research Interests
 
 <font color='red'>I am actively looking for a PhD position starting 2024 Fall</font>
