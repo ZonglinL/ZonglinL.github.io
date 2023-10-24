@@ -17,7 +17,7 @@ layout: page
 My ultimate research goal is to build a leraning-based intelligent systems that can percieve the visual world at human levels, whcih can *understand different modalities, perform different tasks, and collaborate with others*. To achieve this, I break my research down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems, as shown in the image on the right. In my previous work, I primarily focused on how to **think**, including robust and effective learning-based methods for multi-agent collaboration in VPR, SE-(3) equivariant understanding of point clouds, LLM's supervision for OCR, and time series understanding.
 
 <br>
-My next step is to continue exploring how to **think**, developing a multi-modal model that can collaborate with others and generalize its ability to different but relevant tasks. In addition, **learning** with imperfect, noisy, and weakly labeled data is important to enhance the capability of intelligent systems as most real-world data are not perfectly cleaned. After developing a sophosticated system, it is important to take **robustness** into consideration for real-world deploment.
+The next step is to continue exploring how to **think**, developing a multi-modal model that can collaborate with others and generalize its ability to different but relevant tasks. In addition, **learning** with imperfect, noisy, and weakly labeled data is important to enhance the capability of intelligent systems as most real-world data are not perfectly cleaned. After developing a sophosticated system, it is important to take **robustness** into consideration for real-world deploment.
 
 <br>
 In short, my current reasearch intersts are:
@@ -39,7 +39,7 @@ In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming
 At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a robust and effective algorithm that balances noises and extra information from collaborators. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
 
 <br>
-Beyond this work, I am currently working on three projects:
+I am currently working on three projects:
 1.    Improvements and extensions on CoVPR, resolving limitations and designing new mechanisms.
 2.    Benchmarking a large-scale autonomous driving dataset. The paper is coming soon!
 3.    Developing methods for multi-modal learning.
