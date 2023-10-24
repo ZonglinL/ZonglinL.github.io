@@ -11,9 +11,8 @@ layout: page
 
 ## Research Interests
 
-<font color='red'>I am actively looking for a PhD position starting 2024 Fall</font>
-
-My ultimate research goal is to build intelligent systems that can percieve the visual world at human levels, whcih can *understand different modalities, perform different tasks, and collaborate with others*. To achieve this, I break my research down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems.
+<img src="./images/Web.jpg" alt="research" width="400" align="right" />
+My ultimate research goal is to build intelligent systems that can percieve the visual world at human levels, whcih can *understand different modalities, perform different tasks, and collaborate with others*. To achieve this, I break my research down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems, as shown in the image on the right. 
 
 
 * Computer vision
