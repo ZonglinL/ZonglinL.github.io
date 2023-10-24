@@ -14,7 +14,6 @@ layout: page
 <img src="./images/Web.jpg" alt="research" width="400" align="right" />
 
 <br>
-
 My ultimate research goal is to build a leraning-based intelligent systems that can percieve the visual world at human levels, whcih can *understand different modalities, perform different tasks, and collaborate with others*. To achieve this, I break my research down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems, as shown in the image on the right. My previous work focused on how to **think**, including robust and effective method for multi-agent collaboration in VPR, SE-(3) equivariant understanding of point clouds, LLM's supervision for OCR, and time series understanding. Currently, I am working on multi-modalities.
 
 <br>
