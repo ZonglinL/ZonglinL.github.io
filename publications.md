@@ -72,7 +72,7 @@ title: Publications
           <br>
           Xuande Feng*, <strong><u>Zonglin Lyu*</u></strong><sup>✉️</sup>.
           <br>  
-          <strong>ICTAI</strong> 2022
+          <strong>ICTAI</strong> 2022 (oral presentation)
           <br>
           <a href="https://ieeexplore.ieee.org/document/10098079" class="custom-link—paper">[Paper]</a>
           <a href="https://github.com/ZonglinL/ParallelSeries" class="custom-link—code">[Code]</a>
