@@ -27,7 +27,7 @@ At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this wo
 * Multimodal Learning
 
 #### Contact
-If you have any questions, please email to zonglinlyu123123@gmail.com
+I am always happy to chat about research (and also non-research stuffs such as entertainment). If you would like to talk with me, please email to zonglinlyu123123@gmail.com
 
 <br>
 
