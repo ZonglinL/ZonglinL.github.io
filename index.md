@@ -16,30 +16,15 @@ In the past year, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming
 <br>
 At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this work, I formulated the first CoVPR framework and designed a robust and effective algorithm that balances noises and extra information from collaborators. I am excited about the future impact of this work. Details can be found in [this paper](https://arxiv.org/abs/2310.05541).
 
-<br>
-I am currently working on three projects:
-1.    Improvements and extensions on CoVPR, resolving limitations and designing new mechanisms.
-2.    Benchmarking a large-scale autonomous driving dataset. The paper is coming soon!
-3.    Developing methods for multi-modal learning.
 
 <br>
 
 ## Research Interests
 
-<img src="./images/Web.jpg" alt="research" width="400" align="right" />
-
-<br>
-My ultimate research goal is to build learning-based intelligent systems that can perceive the visual world at human levels, which can *understand different modalities, handle different tasks, collaborate with others, and interact with humans through visual and language observations*. To achieve this, I break my research plan down to three sections: **think** like humans, **learn** like humans, and **robustness** of the intellegent systems, as shown in the image on the right. In my previous work, I primarily focused on how to **think**, including robust and effective learning-based methods for multi-agent collaboration in VPR, SE-(3) equivariant understanding of point clouds, LLM's supervision for OCR, and time series understanding.
-
-<br>
-The next step is to continue exploring how to **think**, developing a multi-modal model that can collaborate with others, generalize its ability to relevant tasks, and recognize never-seen-before objects. In addition, **learning** with imperfect, noisy, and weakly labeled data is important to enhance the capability of intelligent systems as most real-world data are not perfectly cleaned. After developing a sophosticated system, it is important to take **robustness** into consideration for real-world deployment.
-
-<br>
-In short, my current reasearch interests are:
-* Computer vision with multi-modality, multi-task, and multi-agent
+* Computer vision
 * Deep Learning
-* Learning with imperfect, noisy, and weakly labeled data (future direction)
-* Robustness (futher direction)
+* Generative Models
+* Multimodal Learning
 
 #### Contact
 If you have any questions, please email to zonglinlyu123123@gmail.com
