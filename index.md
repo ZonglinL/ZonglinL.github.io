@@ -63,7 +63,6 @@ I am always happy to chat about research (and also non-research stuffs such as e
 <br>
 
 ## News and Updates
-- **Feb. 2024：** I will attend the University of Central Florida advised by [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/) in this August.
 - **Sept. 2023：** One paper has been submitted to **ICRA 2024**.
 - **Jan. 2023：** Joined AI4CE Lab.
 - **Sept. 2022：** One paper has been accepted to **ICTAI 2022**.
