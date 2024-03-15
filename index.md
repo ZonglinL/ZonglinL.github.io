@@ -49,7 +49,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
           <br>
           Yiming Li*, <strong><u>Zonglin Lyu*</u></strong>, Mingxuan Lu, Chao Chen, Michael Milford, Chen Feng<sup>✉️</sup>.
           <br>  
-          Submitted to <strong>ICRA</strong> 2024
+          Submitted to <strong>IROS</strong> 2024
           <br>
           <a href="https://arxiv.org/abs/2310.05541" class="custom-link—paper">[Paper]</a>
           <a href="https://github.com/ai4ce/CoVPR" class="custom-link—code">[Code]</a>
@@ -63,8 +63,8 @@ I am always happy to chat about research (and also non-research stuffs such as e
 <br>
 
 ## News and Updates
+- **March 2024：** One paper has been submitted to **IROS 2024**.
 - **Feb. 2024：** One paper has been accepted to **CVPR 2024**.
-- **Sept. 2023：** One paper has been submitted to **ICRA 2024**.
 - **Jan. 2023：** Joined AI4CE Lab.
 - **Sept. 2022：** One paper has been accepted to **ICTAI 2022**.
 
