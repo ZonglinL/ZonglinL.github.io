@@ -22,7 +22,6 @@ At AI4CE, I worked on Collaborative Visual Place Recognition (CoVPR). In this wo
 ## Research Interests
 
 * Computer vision
-* Deep Learning
 * Generative Models
 * Multimodal Learning
 
