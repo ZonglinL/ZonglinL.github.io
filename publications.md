@@ -58,6 +58,32 @@ title: Publications
   </tbody>
 </table>
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
+        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/LLM4VPR.png" alt="dise"> 
+      </td>
+      <td width="75%" valign="center" class="text-wrapper"> 
+          <papertitle>
+            <strong>
+              	<i>Tell Me Where You Are</i>: Multimodal LLMs Meet Place Recognition
+            </strong>
+          </papertitle>
+          <br>
+          <strong><u>Zonglin Lyu</u></strong>, Juexiao Zhang, Mingxian Lu, Yiming Li, Chen Feng<sup>✉️</sup>.
+          <br>  
+          <strong>Under Review</strong> 
+          <br>
+          <a href="https://arxiv.org/pdf/2406.17520" class="custom-link—paper">[Paper]</a>
+          <a href="https://github.com/ai4ce/LLM4VPR" class="custom-link—code">[Code]</a>
+          <a href="https://ai4ce.github.io/LLM4VPR/" class="custom-link—project">[Webpage]</a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
@@ -85,6 +111,8 @@ title: Publications
   </tbody>
 </table>
 
+
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
@@ -102,13 +130,15 @@ title: Publications
           <br>  
           <strong>CVPR</strong> 2024
           <br>
-          <a href="https://openreview.net/pdf?id=VIxV4gwd03" class="custom-link—paper">[Paper]</a>
+          <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Multiagent_Multitraversal_Multimodal_Self-Driving_Open_MARS_Dataset_CVPR_2024_paper.pdf" class="custom-link—paper">[Paper]</a>
+          <a href="https://github.com/ai4ce/MARS" class="custom-link—code">[Code]</a>
           <a href="https://ai4ce.github.io/MARS" class="custom-link—project">[Webpage]</a>
       </td>
     </tr>
 
   </tbody>
 </table>
+
 
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
