@@ -103,6 +103,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
           <strong>CVPR</strong> 2024
           <br>
           <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Multiagent_Multitraversal_Multimodal_Self-Driving_Open_MARS_Dataset_CVPR_2024_paper.pdf" class="custom-link—paper">[Paper]</a>
+          <a href="https://github.com/ai4ce/MARS" class="custom-link—code">[Code]</a>
           <a href="https://ai4ce.github.io/MARS" class="custom-link—project">[Webpage]</a>
       </td>
     </tr>
