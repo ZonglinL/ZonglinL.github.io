@@ -31,6 +31,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
 *: equal in contribution, ✉️: corresponding author
 
 <span style="color: gray;">2024</span>
+
 ---
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -88,6 +89,8 @@ I am always happy to chat about research (and also non-research stuffs such as e
 
 <span style="color: gray;">2023</span>
 
+---
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
@@ -115,6 +118,8 @@ I am always happy to chat about research (and also non-research stuffs such as e
 </table>
 
 <span style="color: gray;">2022</span>
+
+---
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
