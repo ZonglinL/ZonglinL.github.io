@@ -30,7 +30,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
 ## Selected Publications
 *: equal in contribution, ✉️: corresponding author
 
-<span style="color: gray;">2024</span>
+<h3 style="color: gray;">2024</h3>
 
 ---
 
@@ -114,7 +114,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
 </table>
 
 
-<span style="color: gray;">2023</span>
+<h3 style="color: gray;">2023</h3>
 
 ---
 
