@@ -2,21 +2,21 @@
 layout: page
 ---
 
-## Education
+# Education
 - **Aug 2024 - :** Ph.D. in Computer Science, University of Utah
 - **Sep 2021 - Dec 2022:** M.S. in Operations Research, Columbia University
 - **Sep 2017 - June 2020:** B.S. in Applied Math, University of California, San Diego
 
 <br>
 
-## About
+# About
 
 I am an incoming Ph.D. student in Computer Science at the Univeristy of Utah, advised by Professor [Ziad Al-Halah](https://users.cs.utah.edu/~ziad/). Prior joining the University of Utah, I was fortunate to collaborate with Professor [Chen Chen](https://www.crcv.ucf.edu/chenchen/). Beofre that, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://yimingli-page.github.io/) and Professor [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en). 
 
 
 <br>
 
-## Research Interests
+# Research Interests
 
 * Computer vision
 * Generative Models
@@ -27,8 +27,10 @@ I am always happy to chat about research (and also non-research stuffs such as e
 
 <br>
 
-## Selected Publications
+# Selected Publications
 *: equal in contribution, ✉️: corresponding author
+
+<h2 style="color: gray;">2024</h2>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
