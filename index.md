@@ -30,7 +30,8 @@ I am always happy to chat about research (and also non-research stuffs such as e
 # Selected Publications
 *: equal in contribution, ✉️: corresponding author
 
-<h2 style="color: gray;">2024</h2>
+<h3 style="color: gray;">2024</h3>
+---
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
