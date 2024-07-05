@@ -133,7 +133,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
           <br>
           Yiming Li*, <strong><u>Zonglin Lyu*</u></strong>, Mingxuan Lu, Chao Chen, Michael Milford, Chen Feng<sup>✉️</sup>.
           <br>  
-          Submitted to <strong>IROS</strong> 2024
+          <strong>Arxiv</strong> 2023
           <br>
           <a href="https://arxiv.org/abs/2310.05541" class="custom-link—paper">[Paper]</a>
           <a href="https://github.com/ai4ce/CoVPR" class="custom-link—code">[Code]</a>
