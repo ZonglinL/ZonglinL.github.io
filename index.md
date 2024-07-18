@@ -114,37 +114,6 @@ I am always happy to chat about research (and also non-research stuffs such as e
 </table>
 
 
-<h3 style="color: gray;">2023</h3>
-
----
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-  <tbody>
-    <tr>
-      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
-        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/CoVPR.jpg" alt="dise"> 
-      </td>
-      <td width="75%" valign="center" class="text-wrapper"> 
-          <papertitle>
-            <strong>
-              Collaborative Visual Place Recognition
-            </strong>
-          </papertitle>
-          <br>
-          Yiming Li*, <strong><u>Zonglin Lyu*</u></strong>, Mingxuan Lu, Chao Chen, Michael Milford, Chen Feng<sup>✉️</sup>.
-          <br>  
-          <strong>Arxiv</strong> 2023
-          <br>
-          <a href="https://arxiv.org/abs/2310.05541" class="custom-link—paper">[Paper]</a>
-          <a href="https://github.com/ai4ce/CoVPR" class="custom-link—code">[Code]</a>
-          <a href="https://ai4ce.github.io/CoVPR/" class="custom-link—project">[Webpage]</a>
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
-
 
 <br>
 
