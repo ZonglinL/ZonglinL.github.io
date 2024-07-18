@@ -38,32 +38,6 @@ title: Publications
   <tbody>
     <tr>
       <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
-        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/BB.png" alt="dise"> 
-      </td>
-      <td width="75%" valign="center" class="text-wrapper"> 
-          <papertitle>
-            <strong>
-              	Frame Interpolation with Consecutive Brownian Bridge Diffusion
-            </strong>
-          </papertitle>
-          <br>
-          <strong><u>Zonglin Lyu</u></strong>,Ming Li, Jianbo Jiao, Chen Chen<sup>✉️</sup>.
-          <br>  
-          <strong>Under review</strong>
-          <br>
-          <a href="https://arxiv.org/pdf/2405.05953" class="custom-link—paper">[Paper]</a>
-          <a href="https://github.com/ZonglinL/ConsecutiveBrownianBridge" class="custom-link—code">[Code]</a>
-          <a href="https://zonglinl.github.io/videointerp/" class="custom-link—project">[Webpage]</a>
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-  <tbody>
-    <tr>
-      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
         <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/LLM4VPR.png" alt="dise"> 
       </td>
       <td width="75%" valign="center" class="text-wrapper"> 
@@ -128,6 +102,34 @@ title: Publications
 <h3 style="color: gray;">2024</h3>
 
 ---
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
+        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/BB.png" alt="dise"> 
+      </td>
+      <td width="75%" valign="center" class="text-wrapper"> 
+          <papertitle>
+            <strong>
+              	Frame Interpolation with Consecutive Brownian Bridge Diffusion
+            </strong>
+          </papertitle>
+          <br>
+          <strong><u>Zonglin Lyu</u></strong>,Ming Li, Jianbo Jiao, Chen Chen<sup>✉️</sup>.
+          <br>  
+          <strong>ACM Multimedia 2024</strong>
+          <br>
+          <a href="https://arxiv.org/pdf/2405.05953" class="custom-link—paper">[Paper]</a>
+          <a href="https://github.com/ZonglinL/ConsecutiveBrownianBridge" class="custom-link—code">[Code]</a>
+          <a href="https://zonglinl.github.io/videointerp/" class="custom-link—project">[Webpage]</a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
