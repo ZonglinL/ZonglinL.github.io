@@ -119,7 +119,7 @@ title: Publications
           <br>
           <strong><u>Zonglin Lyu</u></strong>,Ming Li, Jianbo Jiao, Chen Chen<sup>✉️</sup>.
           <br>  
-          <strong>ACM Multimedia 2024</strong>
+          <strong>ACM MM</strong> 2024
           <br>
           <a href="https://arxiv.org/pdf/2405.05953" class="custom-link—paper">[Paper]</a>
           <a href="https://github.com/ZonglinL/ConsecutiveBrownianBridge" class="custom-link—code">[Code]</a>
