@@ -49,7 +49,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
           <br>
           <strong><u>Zonglin Lyu</u></strong>,Ming Li, Jianbo Jiao, Chen Chen<sup>✉️</sup>.
           <br>  
-          <strong>Under review</strong>
+          <strong>ACM Multimedia 2024</strong>
           <br>
           <a href="https://arxiv.org/pdf/2405.05953" class="custom-link—paper">[Paper]</a>
           <a href="https://github.com/ZonglinL/ConsecutiveBrownianBridge" class="custom-link—code">[Code]</a>
