@@ -11,7 +11,7 @@ layout: page
 
 ## About
 
-I am an incoming Ph.D. student in Computer Science at the Univeristy of Utah, advised by Professor [Ziad Al-Halah](https://users.cs.utah.edu/~ziad/). Prior joining the University of Utah, I was fortunate to collaborate with Professor [Chen Chen](https://www.crcv.ucf.edu/chenchen/). Beofre that, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://yimingli-page.github.io/) and Professor [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en). 
+I am a first year Ph.D. student in Computer Science at the Univeristy of Utah, advised by Professor [Ziad Al-Halah](https://users.cs.utah.edu/~ziad/). Prior joining the University of Utah, I was fortunate to collaborate with Professor [Chen Chen](https://www.crcv.ucf.edu/chenchen/). Beofre that, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://yimingli-page.github.io/) and Professor [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en). 
 
 
 <br>
