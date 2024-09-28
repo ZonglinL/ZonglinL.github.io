@@ -3,7 +3,8 @@ layout: page
 ---
 
 ## Education
-- **Aug 2024 - :** Ph.D. in Computer Science, University of Utah
+- **Jan 2025 - :** Ph.D. in Computer Science, University of Central Florida
+- **Aug 2024 - Dec 2024:** Ph.D. in Computer Science, University of Utah (transferred)
 - **Sep 2021 - Dec 2022:** M.S. in Operations Research, Columbia University
 - **Sep 2017 - June 2020:** B.S. in Applied Math, University of California, San Diego
 
