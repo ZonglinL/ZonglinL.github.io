@@ -12,7 +12,7 @@ layout: page
 
 ## About
 
-I am a first year Ph.D. student in Computer Science at University of Central Florida, advised by Professor [Chen Chen](https://www.crcv.ucf.edu/chenchen/). Prior joining UCF, I spent on semester at University of Utah. Beofre that, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://yimingli-page.github.io/) and Professor [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en). 
+I am actively looking for internship position. Please contact me if there is suitable position! I am a first year Ph.D. student in Computer Science at University of Central Florida, advised by Professor [Chen Chen](https://www.crcv.ucf.edu/chenchen/). Prior joining UCF, I spent on semester at University of Utah. Beofre that, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://yimingli-page.github.io/) and Professor [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en). 
 
 <br>
 
