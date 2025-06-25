@@ -93,6 +93,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
 <br>
 
 ## News and Updates
+- **June. 2024：** One paper has been accepted to **ICCV 2025**.
 - **Aug. 2024：** One paper has been accepted to **ACM MM 2024**.
 - **Feb. 2024：** One paper has been accepted to **CVPR 2024**.
 - **Sept. 2022：** One paper has been accepted to **ICTAI 2022**.
