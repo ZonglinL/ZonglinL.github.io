@@ -43,6 +43,32 @@ I am always happy to chat about research (and also non-research stuffs such as e
       <td width="75%" valign="center" class="text-wrapper"> 
           <papertitle>
             <strong>
+              	TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation
+            </strong>
+          </papertitle>
+          <br>
+          <strong><u>Zonglin Lyu</u></strong>, Chen Chen<sup>✉️</sup>.
+          <br>  
+          <strong>ICCV</strong> 2025
+          <br>
+          <a href="https://arxiv.org/abs/2507.04984" class="custom-link—paper">[Paper]</a>
+          <a href="https://github.com/ZonglinL/TLBVFI" class="custom-link—code">[Code]</a>
+          <a href="https://zonglinl.github.io/tlbvfi_page/" class="custom-link—project">[Webpage]</a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
+        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/BB.png" alt="dise"> 
+      </td>
+      <td width="75%" valign="center" class="text-wrapper"> 
+          <papertitle>
+            <strong>
               	Frame Interpolation with Consecutive Brownian Bridge Diffusion
             </strong>
           </papertitle>
