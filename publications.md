@@ -33,7 +33,7 @@ title: Publications
 
 <!-- =================================================================================== -->
 
-<h3 style="color: gray;">2024</h3>
+<h3 style="color: gray;">2025</h3>
 
 ---
 
@@ -63,6 +63,9 @@ title: Publications
   </tbody>
 </table>
 
+<h3 style="color: gray;">2024</h3>
+
+---
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
