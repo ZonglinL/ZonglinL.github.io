@@ -37,8 +37,8 @@ I am always happy to chat about research (and also non-research stuffs such as e
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
-      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
-        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/TLBVFI.png" alt="dise"> 
+      <td style="margin:5px;padding:5px;width:85%;max-width:90%" align="center" class="image-wrapper">
+        <img style="margin:1px;padding-right:20px;width:85%;max-width:100%" src="https://zonglinl.github.io/images/TLBVFI.png" alt="dise"> 
       </td>
       <td width="75%" valign="center" class="text-wrapper"> 
           <papertitle>
