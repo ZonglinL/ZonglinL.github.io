@@ -38,7 +38,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
   <tbody>
     <tr>
       <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
-        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/BB.png" alt="dise"> 
+        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/TLBVFI.png" alt="dise"> 
       </td>
       <td width="75%" valign="center" class="text-wrapper"> 
           <papertitle>
