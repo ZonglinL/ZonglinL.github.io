@@ -12,7 +12,7 @@ layout: page
 
 ## About
 
-I am actively looking for internship position (full time or part time). Please contact me if there is suitable position! I am a second year Ph.D. student in Computer Science at University of Central Florida, advised by Professor [Chen Chen](https://www.crcv.ucf.edu/chenchen/). Prior joining UCF, I spent on semester at University of Utah. Beofre that, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://yimingli-page.github.io/) and Professor [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en). 
+I am currently a student researcher at Bytedance Seed. I am a second year Ph.D. student in Computer Science at University of Central Florida, advised by Professor [Chen Chen](https://www.crcv.ucf.edu/chenchen/). Prior joining UCF, I spent on semester at University of Utah. Beofre that, I worked at [AI4CE Lab](https://ai4ce.github.io/) with [Yiming Li](https://yimingli-page.github.io/) and Professor [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en). 
 
 <br>
 
@@ -155,6 +155,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
 
 
 <br>
+
 
 
 
