@@ -41,6 +41,34 @@ title: Publications
   <tbody>
     <tr>
       <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
+        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/CPO.png" alt="dise"> 
+      </td>
+      <td width="75%" valign="center" class="text-wrapper"> 
+          <papertitle>
+            <strong>
+              	CPO: Condition Preference Optimization for Controllable Image GenerationTLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation
+            </strong>
+          </papertitle>
+          <br>
+          <strong><u>Zonglin Lyu</u></strong>,Ming Li,Xinxin Liu, Chen Chen<sup>✉️</sup>.
+          <br>  
+          <strong>NeurIPS</strong> 2025
+          <br>
+          <a href="https://arxiv.org/abs/2511.04753" class="custom-link—paper">[Paper]</a>
+          <a href="https://github.com/ZonglinL/CPO" class="custom-link—code">[Code]</a>
+          <a href="https://zonglinl.github.io/CPO_page/" class="custom-link—project">[Webpage]</a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
         <img style="margin:1px;padding-right:10px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/TLBVFI.png" alt="dise"> 
       </td>
       <td width="75%" valign="center" class="text-wrapper"> 
@@ -220,3 +248,4 @@ title: Publications
 </table>
 
 ---
+
