@@ -147,6 +147,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
 <br>
 
 ## News and Updates
+- **Jan. 2026：** One paper has been accepted to **ICLR 2026**.
 - **Sept. 2025：** One paper has been accepted to **NeurIPS 2025**.
 - **June. 2025：** One paper has been accepted to **ICCV 2025**.
 - **Aug. 2024：** One paper has been accepted to **ACM MM 2024**.
@@ -155,6 +156,7 @@ I am always happy to chat about research (and also non-research stuffs such as e
 
 
 <br>
+
 
 
 
