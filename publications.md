@@ -33,6 +33,38 @@ title: Publications
 
 <!-- =================================================================================== -->
 
+
+<h3 style="color: gray;">2026</h3>
+
+---
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="margin:5px;padding:5px;width:35%;max-width:90%" align="center" class="image-wrapper">
+        <img style="margin:1px;padding-right:20px;width:65%;max-width:100%" src="https://zonglinl.github.io/images/Noisy.png" alt="dise"> 
+      </td>
+      <td width="75%" valign="center" class="text-wrapper"> 
+          <papertitle>
+            <strong>
+              	Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization
+            </strong>
+          </papertitle>
+          <br>
+          Xinxin Liu,Ming Li, <strong><u>Zonglin Lyu</u></strong> Chen Chen<sup>✉️</sup>.
+          <br>  
+          <strong>ICLR</strong> 2026
+          <br>
+          <a href="https://openreview.net/pdf?id=rRc04jyoAk" class="custom-link—paper">[Paper]</a>
+          <a href="https://openreview.net/pdf?id=rRc04jyoAk" class="custom-link—code">[Code]</a>
+          <a href="https://openreview.net/pdf?id=rRc04jyoAk" class="custom-link—project">[Webpage]</a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+
 <h3 style="color: gray;">2025</h3>
 
 ---
@@ -248,4 +280,5 @@ title: Publications
 </table>
 
 ---
+
 
