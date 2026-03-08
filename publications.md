@@ -51,7 +51,7 @@ title: Publications
             </strong>
           </papertitle>
           <br>
-          Xinxin Liu,Ming Li, <strong><u>Zonglin Lyu</u></strong> Chen Chen<sup>✉️</sup>.
+          Xinxin Liu,Ming Li, <strong><u>Zonglin Lyu</u></strong>, Yuzhang Shang, Chen Chen<sup>✉️</sup>.
           <br>  
           <strong>ICLR</strong> 2026
           <br>
@@ -280,5 +280,6 @@ title: Publications
 </table>
 
 ---
+
 
 
